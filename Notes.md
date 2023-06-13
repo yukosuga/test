@@ -1,3 +1,3 @@
 this is my first notes in github
 
-new
+I am practicing how to push
